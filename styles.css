@@ -1,0 +1,41 @@
+body
+{
+    background-color: dimgray;
+    font-family: sans-serif;
+}
+
+#heading
+{
+    width: auto;
+    height: 40px;
+    text-align: center;
+    background-color: beige;
+}
+
+#nav
+{
+    width: auto;
+    height: 60px;
+    background-color: tomato;
+}
+
+#about
+{
+    height: inherit;
+    width: auto;
+    text-align: center;
+}
+
+#portfolio
+{
+    height: inherit;
+    width: auto;
+    text-align: center;
+}
+
+#gallery
+{
+    height: inherit;
+    width: auto;
+    text-align: center;
+}
